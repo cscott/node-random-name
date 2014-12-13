@@ -1,7 +1,7 @@
 {
-  "name": "random-name",
-  "version": "1.0.0",
-  "description": "Generate random names, based on 1990 Census data",
+  "name": "node-random-name",
+  "version": "1.0.1",
+  "description": "Generate random (or seeded) names, based on 1990 Census data",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
