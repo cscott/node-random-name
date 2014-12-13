@@ -1,0 +1,30 @@
+{
+  "name": "random-name",
+  "version": "1.0.0",
+  "description": "Generate random names, based on 1990 Census data",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cscott/node-random-name"
+  },
+  "keywords": [
+    "random",
+    "name",
+    "names"
+  ],
+  "author": "C. Scott Ananian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cscott/node-random-name/issues"
+  },
+  "homepage": "https://github.com/cscott/node-random-name",
+  "dependencies": {
+    "alea": "0.0.9"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}
